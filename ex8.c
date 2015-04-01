@@ -2,7 +2,9 @@
 
 int main(int argc, char *argv[]) {
 
-	int areas[] = {10, 12, 13, 14, 20};
+	//int areas[] = {10, 12, 13, 14, 20};
+	int areas[10] = {};
+	areas[1] = 122;
 	char name[] = "Sam";
 	char fullName[] = {'S', 'a', 'm', 
 					' ', 'C', '.', 
