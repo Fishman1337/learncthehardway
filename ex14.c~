@@ -3,7 +3,7 @@
 
 //forward declarations.
 int canPrintIt(char ch);
-void printLetters(char arg[]);
+//void printLetters(char arg[]);
 
 void printArguments(int argc, char *argv[]) {
 	
